@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mst Haque
 ####  Salesforce Administrator
-5 x Certified Salesforce Administrator and Platform Developer with strong skills in Business Administration, Process Automation and Logic, Data Modelling and Management, Analytics, Customization using Apex and Visualforce, Triggers and Lightning Web Components.
+7 x Certified Salesforce Administrator and Platform Developer with strong skills in Business Administration, Process Automation and Logic, Data Modelling and Management, Analytics, Customization using Apex and Visualforce, Triggers and Lightning Web Components.
 
 Skills: Python / Java / JS / HTML / CSS
 
